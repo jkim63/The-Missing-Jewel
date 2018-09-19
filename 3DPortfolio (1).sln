@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DPortfolio (1)", "Assembly-CSharp-firstpass.csproj", "{ACAC9BC0-21AC-7648-357D-BD82561A74BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DPortfolio (1)", "Assembly-CSharp.csproj", "{0F3B3132-8B94-A5B1-E8AE-531D5FA7C7D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACAC9BC0-21AC-7648-357D-BD82561A74BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAC9BC0-21AC-7648-357D-BD82561A74BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAC9BC0-21AC-7648-357D-BD82561A74BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAC9BC0-21AC-7648-357D-BD82561A74BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3B3132-8B94-A5B1-E8AE-531D5FA7C7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3B3132-8B94-A5B1-E8AE-531D5FA7C7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3B3132-8B94-A5B1-E8AE-531D5FA7C7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3B3132-8B94-A5B1-E8AE-531D5FA7C7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
